@@ -3,4 +3,4 @@ print("Welcome My Friends")
 
 # Show some Cool Greetings Image
 
-# Ask the user what he/she wants to drinkgit
+# Ask the user what he/she wants to drink  
